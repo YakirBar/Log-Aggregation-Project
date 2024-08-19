@@ -1,5 +1,3 @@
-# Log Aggregation Project
-
 ![Architecture](./assets/architecture.gif)
 
 ## Overview
@@ -32,7 +30,7 @@ For data visualization, the project integrates a **Grafana dashboard**, enabling
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/YakirBar/Log-Aggregation-Project.git
 ```
 
 ### 2. Run the Node.js Express Application
